@@ -1,5 +1,8 @@
 # omega-scep-gci-agi
 Self-evolving AGI architecture based on EP–GCI dynamic tension model
+
+This repository hosts a self-revising conceptual specification for a contradiction-driven, coherence-bounded AGI architecture.
+
 # Ω-SCEP / GCI Integrated AGI Specification
 ## Version 0.5 (Revised)
 
